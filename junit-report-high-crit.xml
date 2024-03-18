@@ -1,0 +1,731 @@
+<?xml version="1.0" ?>
+<testsuites>
+    <testsuite tests="1" failures="118" time="0" name="test (debian 11.6)-LOW">
+        <properties>
+            <property name="type" value="debian"></property>
+        </properties>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+    </testsuite>
+    <testsuite tests="2" failures="118" time="0" name="test (debian 11.6)-MEDIUM">
+        <properties>
+            <property name="type" value="debian"></property>
+        </properties>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+    </testsuite>
+    <testsuite tests="3" failures="118" time="0" name="test (debian 11.6)-HIGH">
+        <properties>
+            <property name="type" value="debian"></property>
+        </properties>
+        <testcase classname="bash-5.1-2+deb11u1" name="[HIGH] CVE-2022-3715" time="0">
+            <failure message="a heap-buffer-overflow in valid_parameter_transform" type="description">"A flaw was found in the bash package, where a heap-buffer overflow can occur in valid parameter_transform. This issue may lead to memory problems."</failure>
+        </testcase>
+        <testcase classname="bind9-dnsutils-1:9.16.48-1" name="[HIGH] CVE-2022-2881" time="0">
+            <failure message="bind: buffer overread in statistics channel code" type="description">"The underlying bug might cause read past end of the buffer and either read memory it should not read, or crash the process."</failure>
+        </testcase>
+        <testcase classname="bind9-dnsutils-1:9.16.48-1" name="[HIGH] CVE-2023-6516" time="0">
+            <failure message="bind9: Specific recursive query patterns may lead to an out-of-memory condition" type="description">"To keep its cache database efficient, `named` running as a recursive resolver occasionally attempts to clean up the database. It uses several methods, including some that are asynchronous: a small chunk of memory pointing to the cache element that can be cleaned up is first allocated and then queued for later processing. It was discovered that if the resolver is continuously processing query patterns triggering this type of cache-database maintenance, `named` may not be able to handle the cleanup events in a timely manner. This in turn enables the list of queued cleanup events to grow infinitely large over time, allowing the configured `max-cache-size` limit to be significantly exceeded.&#xA;This issue affects BIND 9 versions 9.16.0 through 9.16.45 and 9.16.8-S1 through 9.16.45-S1."</failure>
+        </testcase>
+        <testcase classname="bind9-host-1:9.16.48-1" name="[HIGH] CVE-2022-2881" time="0">
+            <failure message="bind: buffer overread in statistics channel code" type="description">"The underlying bug might cause read past end of the buffer and either read memory it should not read, or crash the process."</failure>
+        </testcase>
+        <testcase classname="bind9-host-1:9.16.48-1" name="[HIGH] CVE-2023-6516" time="0">
+            <failure message="bind9: Specific recursive query patterns may lead to an out-of-memory condition" type="description">"To keep its cache database efficient, `named` running as a recursive resolver occasionally attempts to clean up the database. It uses several methods, including some that are asynchronous: a small chunk of memory pointing to the cache element that can be cleaned up is first allocated and then queued for later processing. It was discovered that if the resolver is continuously processing query patterns triggering this type of cache-database maintenance, `named` may not be able to handle the cleanup events in a timely manner. This in turn enables the list of queued cleanup events to grow infinitely large over time, allowing the configured `max-cache-size` limit to be significantly exceeded.&#xA;This issue affects BIND 9 versions 9.16.0 through 9.16.45 and 9.16.8-S1 through 9.16.45-S1."</failure>
+        </testcase>
+        <testcase classname="bind9-libs-1:9.16.48-1" name="[HIGH] CVE-2022-2881" time="0">
+            <failure message="bind: buffer overread in statistics channel code" type="description">"The underlying bug might cause read past end of the buffer and either read memory it should not read, or crash the process."</failure>
+        </testcase>
+        <testcase classname="bind9-libs-1:9.16.48-1" name="[HIGH] CVE-2023-6516" time="0">
+            <failure message="bind9: Specific recursive query patterns may lead to an out-of-memory condition" type="description">"To keep its cache database efficient, `named` running as a recursive resolver occasionally attempts to clean up the database. It uses several methods, including some that are asynchronous: a small chunk of memory pointing to the cache element that can be cleaned up is first allocated and then queued for later processing. It was discovered that if the resolver is continuously processing query patterns triggering this type of cache-database maintenance, `named` may not be able to handle the cleanup events in a timely manner. This in turn enables the list of queued cleanup events to grow infinitely large over time, allowing the configured `max-cache-size` limit to be significantly exceeded.&#xA;This issue affects BIND 9 versions 9.16.0 through 9.16.45 and 9.16.8-S1 through 9.16.45-S1."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="curl-7.74.0-1.3+deb11u11" name="[HIGH] CVE-2022-42916" time="0">
+            <failure message="HSTS bypass via IDN" type="description">"In curl before 7.86.0, the HSTS check could be bypassed to trick it into staying with HTTP. Using its HSTS support, curl can be instructed to use HTTPS directly (instead of using an insecure cleartext HTTP step) even when HTTP is provided in the URL. This mechanism could be bypassed if the host name in the given URL uses IDN characters that get replaced with ASCII counterparts as part of the IDN conversion, e.g., using the character UTF-8 U+3002 (IDEOGRAPHIC FULL STOP) instead of the common ASCII full stop of U+002E (.). The earliest affected version is 7.77.0 2021-05-26."</failure>
+        </testcase>
+        <testcase classname="curl-7.74.0-1.3+deb11u11" name="[HIGH] CVE-2022-43551" time="0">
+            <failure message="curl: HSTS bypass via IDN" type="description">"A vulnerability exists in curl &lt;7.87.0 HSTS check that could be bypassed to trick it to keep using HTTP. Using its HSTS support, curl can be instructed to use HTTPS instead of using an insecure clear-text HTTP step even when HTTP is provided in the URL. However, the HSTS mechanism could be bypassed if the host name in the given URL first uses IDN characters that get replaced to ASCII counterparts as part of the IDN conversion. Like using the character UTF-8 U+3002 (IDEOGRAPHIC FULL STOP) instead of the common ASCII full stop (U+002E) `.`. Then in a subsequent request, it does not detect the HSTS state and makes a clear text transfer. Because it would store the info IDN encoded but look for it IDN decoded."</failure>
+        </testcase>
+        <testcase classname="dnsutils-1:9.16.48-1" name="[HIGH] CVE-2022-2881" time="0">
+            <failure message="bind: buffer overread in statistics channel code" type="description">"The underlying bug might cause read past end of the buffer and either read memory it should not read, or crash the process."</failure>
+        </testcase>
+        <testcase classname="dnsutils-1:9.16.48-1" name="[HIGH] CVE-2023-6516" time="0">
+            <failure message="bind9: Specific recursive query patterns may lead to an out-of-memory condition" type="description">"To keep its cache database efficient, `named` running as a recursive resolver occasionally attempts to clean up the database. It uses several methods, including some that are asynchronous: a small chunk of memory pointing to the cache element that can be cleaned up is first allocated and then queued for later processing. It was discovered that if the resolver is continuously processing query patterns triggering this type of cache-database maintenance, `named` may not be able to handle the cleanup events in a timely manner. This in turn enables the list of queued cleanup events to grow infinitely large over time, allowing the configured `max-cache-size` limit to be significantly exceeded.&#xA;This issue affects BIND 9 versions 9.16.0 through 9.16.45 and 9.16.8-S1 through 9.16.45-S1."</failure>
+        </testcase>
+        <testcase classname="e2fsprogs-1.46.2-2" name="[HIGH] CVE-2022-1304" time="0">
+            <failure message="e2fsprogs: out-of-bounds read/write via crafted filesystem" type="description">"An out-of-bounds read/write vulnerability was found in e2fsprogs 1.46.5. This issue leads to a segmentation fault and possibly arbitrary code execution via a specially crafted filesystem."</failure>
+        </testcase>
+        <testcase classname="git-1:2.30.2-1+deb11u2" name="[HIGH] CVE-2023-25652" time="0">
+            <failure message="git: by feeding specially crafted input to `git apply --reject`, a path outside the working tree can be overwritten with partially controlled contents" type="description">"Git is a revision control system. Prior to versions 2.30.9, 2.31.8, 2.32.7, 2.33.8, 2.34.8, 2.35.8, 2.36.6, 2.37.7, 2.38.5, 2.39.3, and 2.40.1, by feeding specially crafted input to `git apply --reject`, a path outside the working tree can be overwritten with partially controlled contents (corresponding to the rejected hunk(s) from the given patch). A fix is available in versions 2.30.9, 2.31.8, 2.32.7, 2.33.8, 2.34.8, 2.35.8, 2.36.6, 2.37.7, 2.38.5, 2.39.3, and 2.40.1. As a workaround, avoid using `git apply` with `--reject` when applying patches from an untrusted source. Use `git apply --stat` to inspect a patch before applying; avoid applying one that create a conflict where a link corresponding to the `*.rej` file exists."</failure>
+        </testcase>
+        <testcase classname="git-1:2.30.2-1+deb11u2" name="[HIGH] CVE-2023-29007" time="0">
+            <failure message="git: arbitrary configuration injection when renaming or deleting a section from a configuration file" type="description">"Git is a revision control system. Prior to versions 2.30.9, 2.31.8, 2.32.7, 2.33.8, 2.34.8, 2.35.8, 2.36.6, 2.37.7, 2.38.5, 2.39.3, and 2.40.1, a specially crafted `.gitmodules` file with submodule URLs that are longer than 1024 characters can used to exploit a bug in `config.c::git_config_copy_or_rename_section_in_file()`. This bug can be used to inject arbitrary configuration into a user&#39;s `$GIT_DIR/config` when attempting to remove the configuration section associated with that submodule. When the attacker injects configuration values which specify executables to run (such as `core.pager`, `core.editor`, `core.sshCommand`, etc.) this can lead to a remote code execution. A fix A fix is available in versions 2.30.9, 2.31.8, 2.32.7, 2.33.8, 2.34.8, 2.35.8, 2.36.6, 2.37.7, 2.38.5, 2.39.3, and 2.40.1. As a workaround, avoid running `git submodule deinit` on untrusted repositories or without prior inspection of any submodule sections in `$GIT_DIR/config`."</failure>
+        </testcase>
+        <testcase classname="git-man-1:2.30.2-1+deb11u2" name="[HIGH] CVE-2023-25652" time="0">
+            <failure message="git: by feeding specially crafted input to `git apply --reject`, a path outside the working tree can be overwritten with partially controlled contents" type="description">"Git is a revision control system. Prior to versions 2.30.9, 2.31.8, 2.32.7, 2.33.8, 2.34.8, 2.35.8, 2.36.6, 2.37.7, 2.38.5, 2.39.3, and 2.40.1, by feeding specially crafted input to `git apply --reject`, a path outside the working tree can be overwritten with partially controlled contents (corresponding to the rejected hunk(s) from the given patch). A fix is available in versions 2.30.9, 2.31.8, 2.32.7, 2.33.8, 2.34.8, 2.35.8, 2.36.6, 2.37.7, 2.38.5, 2.39.3, and 2.40.1. As a workaround, avoid using `git apply` with `--reject` when applying patches from an untrusted source. Use `git apply --stat` to inspect a patch before applying; avoid applying one that create a conflict where a link corresponding to the `*.rej` file exists."</failure>
+        </testcase>
+        <testcase classname="git-man-1:2.30.2-1+deb11u2" name="[HIGH] CVE-2023-29007" time="0">
+            <failure message="git: arbitrary configuration injection when renaming or deleting a section from a configuration file" type="description">"Git is a revision control system. Prior to versions 2.30.9, 2.31.8, 2.32.7, 2.33.8, 2.34.8, 2.35.8, 2.36.6, 2.37.7, 2.38.5, 2.39.3, and 2.40.1, a specially crafted `.gitmodules` file with submodule URLs that are longer than 1024 characters can used to exploit a bug in `config.c::git_config_copy_or_rename_section_in_file()`. This bug can be used to inject arbitrary configuration into a user&#39;s `$GIT_DIR/config` when attempting to remove the configuration section associated with that submodule. When the attacker injects configuration values which specify executables to run (such as `core.pager`, `core.editor`, `core.sshCommand`, etc.) this can lead to a remote code execution. A fix A fix is available in versions 2.30.9, 2.31.8, 2.32.7, 2.33.8, 2.34.8, 2.35.8, 2.36.6, 2.37.7, 2.38.5, 2.39.3, and 2.40.1. As a workaround, avoid running `git submodule deinit` on untrusted repositories or without prior inspection of any submodule sections in `$GIT_DIR/config`."</failure>
+        </testcase>
+        <testcase classname="less-551-2" name="[HIGH] CVE-2022-48624" time="0">
+            <failure message="less: missing quoting of shell metacharacters in LESSCLOSE handling" type="description">"close_altfile in filename.c in less before 606 omits shell_quote calls for LESSCLOSE."</failure>
+        </testcase>
+        <testcase classname="libc-bin-2.31-13+deb11u5" name="[HIGH] CVE-2023-4911" time="0">
+            <failure message="glibc: buffer overflow in ld.so leading to privilege escalation" type="description">"A buffer overflow was discovered in the GNU C Library&#39;s dynamic loader ld.so while processing the GLIBC_TUNABLES environment variable. This issue could allow a local attacker to use maliciously crafted GLIBC_TUNABLES environment variables when launching binaries with SUID permission to execute code with elevated privileges."</failure>
+        </testcase>
+        <testcase classname="libc6-2.31-13+deb11u5" name="[HIGH] CVE-2023-4911" time="0">
+            <failure message="glibc: buffer overflow in ld.so leading to privilege escalation" type="description">"A buffer overflow was discovered in the GNU C Library&#39;s dynamic loader ld.so while processing the GLIBC_TUNABLES environment variable. This issue could allow a local attacker to use maliciously crafted GLIBC_TUNABLES environment variables when launching binaries with SUID permission to execute code with elevated privileges."</failure>
+        </testcase>
+        <testcase classname="libcap2-1:2.44-1" name="[HIGH] CVE-2023-2603" time="0">
+            <failure message="libcap: Integer Overflow in _libcap_strdup()" type="description">"A vulnerability was found in libcap. This issue occurs in the _libcap_strdup() function and can lead to an integer overflow if the input string is close to 4GiB."</failure>
+        </testcase>
+        <testcase classname="libcap2-bin-1:2.44-1" name="[HIGH] CVE-2023-2603" time="0">
+            <failure message="libcap: Integer Overflow in _libcap_strdup()" type="description">"A vulnerability was found in libcap. This issue occurs in the _libcap_strdup() function and can lead to an integer overflow if the input string is close to 4GiB."</failure>
+        </testcase>
+        <testcase classname="libcom-err2-1.46.2-2" name="[HIGH] CVE-2022-1304" time="0">
+            <failure message="e2fsprogs: out-of-bounds read/write via crafted filesystem" type="description">"An out-of-bounds read/write vulnerability was found in e2fsprogs 1.46.5. This issue leads to a segmentation fault and possibly arbitrary code execution via a specially crafted filesystem."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="libcurl3-gnutls-7.74.0-1.3+deb11u11" name="[HIGH] CVE-2022-42916" time="0">
+            <failure message="HSTS bypass via IDN" type="description">"In curl before 7.86.0, the HSTS check could be bypassed to trick it into staying with HTTP. Using its HSTS support, curl can be instructed to use HTTPS directly (instead of using an insecure cleartext HTTP step) even when HTTP is provided in the URL. This mechanism could be bypassed if the host name in the given URL uses IDN characters that get replaced with ASCII counterparts as part of the IDN conversion, e.g., using the character UTF-8 U+3002 (IDEOGRAPHIC FULL STOP) instead of the common ASCII full stop of U+002E (.). The earliest affected version is 7.77.0 2021-05-26."</failure>
+        </testcase>
+        <testcase classname="libcurl3-gnutls-7.74.0-1.3+deb11u11" name="[HIGH] CVE-2022-43551" time="0">
+            <failure message="curl: HSTS bypass via IDN" type="description">"A vulnerability exists in curl &lt;7.87.0 HSTS check that could be bypassed to trick it to keep using HTTP. Using its HSTS support, curl can be instructed to use HTTPS instead of using an insecure clear-text HTTP step even when HTTP is provided in the URL. However, the HSTS mechanism could be bypassed if the host name in the given URL first uses IDN characters that get replaced to ASCII counterparts as part of the IDN conversion. Like using the character UTF-8 U+3002 (IDEOGRAPHIC FULL STOP) instead of the common ASCII full stop (U+002E) `.`. Then in a subsequent request, it does not detect the HSTS state and makes a clear text transfer. Because it would store the info IDN encoded but look for it IDN decoded."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="libcurl4-7.74.0-1.3+deb11u11" name="[HIGH] CVE-2022-42916" time="0">
+            <failure message="HSTS bypass via IDN" type="description">"In curl before 7.86.0, the HSTS check could be bypassed to trick it into staying with HTTP. Using its HSTS support, curl can be instructed to use HTTPS directly (instead of using an insecure cleartext HTTP step) even when HTTP is provided in the URL. This mechanism could be bypassed if the host name in the given URL uses IDN characters that get replaced with ASCII counterparts as part of the IDN conversion, e.g., using the character UTF-8 U+3002 (IDEOGRAPHIC FULL STOP) instead of the common ASCII full stop of U+002E (.). The earliest affected version is 7.77.0 2021-05-26."</failure>
+        </testcase>
+        <testcase classname="libcurl4-7.74.0-1.3+deb11u11" name="[HIGH] CVE-2022-43551" time="0">
+            <failure message="curl: HSTS bypass via IDN" type="description">"A vulnerability exists in curl &lt;7.87.0 HSTS check that could be bypassed to trick it to keep using HTTP. Using its HSTS support, curl can be instructed to use HTTPS instead of using an insecure clear-text HTTP step even when HTTP is provided in the URL. However, the HSTS mechanism could be bypassed if the host name in the given URL first uses IDN characters that get replaced to ASCII counterparts as part of the IDN conversion. Like using the character UTF-8 U+3002 (IDEOGRAPHIC FULL STOP) instead of the common ASCII full stop (U+002E) `.`. Then in a subsequent request, it does not detect the HSTS state and makes a clear text transfer. Because it would store the info IDN encoded but look for it IDN decoded."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="libexpat1-2.2.10-2+deb11u5" name="[HIGH] CVE-2023-52425" time="0">
+            <failure message="expat: parsing large tokens can trigger a denial of service" type="description">"libexpat through 2.5.0 allows a denial of service (resource consumption) because many full reparsings are required in the case of a large token for which multiple buffer fills are needed."</failure>
+        </testcase>
+        <testcase classname="libexpat1-2.2.10-2+deb11u5" name="[HIGH] CVE-2024-28757" time="0">
+            <failure message="expat: XML Entity Expansion" type="description">"libexpat through 2.6.1 allows an XML Entity Expansion attack when there is isolated use of external parsers (created via XML_ExternalEntityParserCreate)."</failure>
+        </testcase>
+        <testcase classname="libext2fs2-1.46.2-2" name="[HIGH] CVE-2022-1304" time="0">
+            <failure message="e2fsprogs: out-of-bounds read/write via crafted filesystem" type="description">"An out-of-bounds read/write vulnerability was found in e2fsprogs 1.46.5. This issue leads to a segmentation fault and possibly arbitrary code execution via a specially crafted filesystem."</failure>
+        </testcase>
+        <testcase classname="libgcrypt20-1.8.7-6" name="[HIGH] CVE-2021-33560" time="0">
+            <failure message="mishandles ElGamal encryption because it lacks exponent blinding to address a side-channel attack against mpi_powm" type="description">"Libgcrypt before 1.8.8 and 1.9.x before 1.9.3 mishandles ElGamal encryption because it lacks exponent blinding to address a side-channel attack against mpi_powm, and the window size is not chosen appropriately. This, for example, affects use of ElGamal in OpenPGP."</failure>
+        </testcase>
+        <testcase classname="libgnutls30-3.7.1-5+deb11u2" name="[HIGH] CVE-2023-0361" time="0">
+            <failure message="gnutls: timing side-channel in the TLS RSA key exchange code" type="description">"A timing side-channel in the handling of RSA ClientKeyExchange messages was discovered in GnuTLS. This side-channel can be sufficient to recover the key encrypted in the RSA ciphertext across a network in a Bleichenbacher style attack. To achieve a successful decryption the attacker would need to send a large amount of specially crafted messages to the vulnerable server. By recovering the secret from the ClientKeyExchange message, the attacker would be able to decrypt the application data exchanged over that connection."</failure>
+        </testcase>
+        <testcase classname="libgnutls30-3.7.1-5+deb11u2" name="[HIGH] CVE-2024-0553" time="0">
+            <failure message="gnutls: incomplete fix for CVE-2023-5981" type="description">"A vulnerability was found in GnuTLS. The response times to malformed ciphertexts in RSA-PSK ClientKeyExchange differ from the response times of ciphertexts with correct PKCS#1 v1.5 padding. This issue may allow a remote attacker to perform a timing side-channel attack in the RSA-PSK key exchange, potentially leading to the leakage of sensitive data. CVE-2024-0553 is designated as an incomplete resolution for CVE-2023-5981."</failure>
+        </testcase>
+        <testcase classname="libgnutls30-3.7.1-5+deb11u2" name="[HIGH] CVE-2024-0567" time="0">
+            <failure message="gnutls: rejects certificate chain with distributed trust" type="description">"A vulnerability was found in GnuTLS, where a cockpit (which uses gnuTLS) rejects a certificate chain with distributed trust. This issue occurs when validating a certificate chain with cockpit-certificate-ensure. This flaw allows an unauthenticated, remote client or attacker to initiate a denial of service attack."</failure>
+        </testcase>
+        <testcase classname="libgssapi-krb5-2-1.18.3-6+deb11u3" name="[HIGH] CVE-2024-26458" time="0">
+            <failure message="krb5: Memory leak at /krb5/src/lib/rpc/pmap_rmt.c" type="description">"Kerberos 5 (aka krb5) 1.21.2 contains a memory leak in /krb5/src/lib/rpc/pmap_rmt.c."</failure>
+        </testcase>
+        <testcase classname="libgssapi-krb5-2-1.18.3-6+deb11u3" name="[HIGH] CVE-2024-26461" time="0">
+            <failure message="krb5: Memory leak at /krb5/src/lib/gssapi/krb5/k5sealv3.c" type="description">"Kerberos 5 (aka krb5) 1.21.2 contains a memory leak vulnerability in /krb5/src/lib/gssapi/krb5/k5sealv3.c."</failure>
+        </testcase>
+        <testcase classname="libgssapi-krb5-2-1.18.3-6+deb11u3" name="[HIGH] CVE-2024-26462" time="0">
+            <failure message="krb5: Memory leak at /krb5/src/kdc/ndr.c" type="description">"Kerberos 5 (aka krb5) 1.21.2 contains a memory leak vulnerability in /krb5/src/kdc/ndr.c."</failure>
+        </testcase>
+        <testcase classname="libk5crypto3-1.18.3-6+deb11u3" name="[HIGH] CVE-2024-26458" time="0">
+            <failure message="krb5: Memory leak at /krb5/src/lib/rpc/pmap_rmt.c" type="description">"Kerberos 5 (aka krb5) 1.21.2 contains a memory leak in /krb5/src/lib/rpc/pmap_rmt.c."</failure>
+        </testcase>
+        <testcase classname="libk5crypto3-1.18.3-6+deb11u3" name="[HIGH] CVE-2024-26461" time="0">
+            <failure message="krb5: Memory leak at /krb5/src/lib/gssapi/krb5/k5sealv3.c" type="description">"Kerberos 5 (aka krb5) 1.21.2 contains a memory leak vulnerability in /krb5/src/lib/gssapi/krb5/k5sealv3.c."</failure>
+        </testcase>
+        <testcase classname="libk5crypto3-1.18.3-6+deb11u3" name="[HIGH] CVE-2024-26462" time="0">
+            <failure message="krb5: Memory leak at /krb5/src/kdc/ndr.c" type="description">"Kerberos 5 (aka krb5) 1.21.2 contains a memory leak vulnerability in /krb5/src/kdc/ndr.c."</failure>
+        </testcase>
+        <testcase classname="libkrb5-3-1.18.3-6+deb11u3" name="[HIGH] CVE-2024-26458" time="0">
+            <failure message="krb5: Memory leak at /krb5/src/lib/rpc/pmap_rmt.c" type="description">"Kerberos 5 (aka krb5) 1.21.2 contains a memory leak in /krb5/src/lib/rpc/pmap_rmt.c."</failure>
+        </testcase>
+        <testcase classname="libkrb5-3-1.18.3-6+deb11u3" name="[HIGH] CVE-2024-26461" time="0">
+            <failure message="krb5: Memory leak at /krb5/src/lib/gssapi/krb5/k5sealv3.c" type="description">"Kerberos 5 (aka krb5) 1.21.2 contains a memory leak vulnerability in /krb5/src/lib/gssapi/krb5/k5sealv3.c."</failure>
+        </testcase>
+        <testcase classname="libkrb5-3-1.18.3-6+deb11u3" name="[HIGH] CVE-2024-26462" time="0">
+            <failure message="krb5: Memory leak at /krb5/src/kdc/ndr.c" type="description">"Kerberos 5 (aka krb5) 1.21.2 contains a memory leak vulnerability in /krb5/src/kdc/ndr.c."</failure>
+        </testcase>
+        <testcase classname="libkrb5support0-1.18.3-6+deb11u3" name="[HIGH] CVE-2024-26458" time="0">
+            <failure message="krb5: Memory leak at /krb5/src/lib/rpc/pmap_rmt.c" type="description">"Kerberos 5 (aka krb5) 1.21.2 contains a memory leak in /krb5/src/lib/rpc/pmap_rmt.c."</failure>
+        </testcase>
+        <testcase classname="libkrb5support0-1.18.3-6+deb11u3" name="[HIGH] CVE-2024-26461" time="0">
+            <failure message="krb5: Memory leak at /krb5/src/lib/gssapi/krb5/k5sealv3.c" type="description">"Kerberos 5 (aka krb5) 1.21.2 contains a memory leak vulnerability in /krb5/src/lib/gssapi/krb5/k5sealv3.c."</failure>
+        </testcase>
+        <testcase classname="libkrb5support0-1.18.3-6+deb11u3" name="[HIGH] CVE-2024-26462" time="0">
+            <failure message="krb5: Memory leak at /krb5/src/kdc/ndr.c" type="description">"Kerberos 5 (aka krb5) 1.21.2 contains a memory leak vulnerability in /krb5/src/kdc/ndr.c."</failure>
+        </testcase>
+        <testcase classname="libldap-2.4-2-2.4.57+dfsg-3+deb11u1" name="[HIGH] CVE-2023-2953" time="0">
+            <failure message="null pointer dereference in  ber_memalloc_x  function" type="description">"A vulnerability was found in openldap. This security flaw causes a null pointer dereference in ber_memalloc_x() function."</failure>
+        </testcase>
+        <testcase classname="libldap-common-2.4.57+dfsg-3+deb11u1" name="[HIGH] CVE-2023-2953" time="0">
+            <failure message="null pointer dereference in  ber_memalloc_x  function" type="description">"A vulnerability was found in openldap. This security flaw causes a null pointer dereference in ber_memalloc_x() function."</failure>
+        </testcase>
+        <testcase classname="libpam-cap-1:2.44-1" name="[HIGH] CVE-2023-2603" time="0">
+            <failure message="libcap: Integer Overflow in _libcap_strdup()" type="description">"A vulnerability was found in libcap. This issue occurs in the _libcap_strdup() function and can lead to an integer overflow if the input string is close to 4GiB."</failure>
+        </testcase>
+        <testcase classname="libperl5.32-5.32.1-4+deb11u3" name="[HIGH] CVE-2020-16156" time="0">
+            <failure message="perl-CPAN: Bypass of verification of signatures in CHECKSUMS files" type="description">"CPAN 2.28 allows Signature Verification Bypass."</failure>
+        </testcase>
+        <testcase classname="libperl5.32-5.32.1-4+deb11u3" name="[HIGH] CVE-2023-31484" time="0">
+            <failure message="perl: CPAN.pm does not verify TLS certificates when downloading distributions over HTTPS" type="description">"CPAN.pm before 2.35 does not verify TLS certificates when downloading distributions over HTTPS."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="libpython3.9-minimal-3.9.2-1" name="[HIGH] CVE-2015-20107" time="0">
+            <failure message="python: mailcap: findmatch() function does not sanitize the second argument" type="description">"In Python (aka CPython) up to 3.10.8, the mailcap module does not add escape characters into commands discovered in the system mailcap file. This may allow attackers to inject shell commands into applications that call mailcap.findmatch with untrusted input (if they lack validation of user-provided filenames or arguments). The fix is also back-ported to 3.7, 3.8, 3.9"</failure>
+        </testcase>
+        <testcase classname="libpython3.9-minimal-3.9.2-1" name="[HIGH] CVE-2020-10735" time="0">
+            <failure message="python: int() type in PyLong_FromString() does not limit amount of digits converting text to int leading to DoS" type="description">"A flaw was found in python. In algorithms with quadratic time complexity using non-binary bases, when using int(&#34;text&#34;), a system could take 50ms to parse an int string with 100,000 digits and 5s for 1,000,000 digits (float, decimal, int.from_bytes(), and int() for binary bases 2, 4, 8, 16, and 32 are not affected). The highest threat from this vulnerability is to system availability."</failure>
+        </testcase>
+        <testcase classname="libpython3.9-minimal-3.9.2-1" name="[HIGH] CVE-2021-3737" time="0">
+            <failure message="HTTP client possible infinite loop on a 100 Continue response" type="description">"A flaw was found in python. An improperly handled HTTP response in the HTTP client code of python may allow a remote attacker, who controls the HTTP server, to make the client script enter an infinite loop, consuming CPU time. The highest threat from this vulnerability is to system availability."</failure>
+        </testcase>
+        <testcase classname="libpython3.9-minimal-3.9.2-1" name="[HIGH] CVE-2022-0391" time="0">
+            <failure message="python: urllib.parse does not sanitize URLs containing ASCII newline and tabs" type="description">"A flaw was found in Python, specifically within the urllib.parse module. This module helps break Uniform Resource Locator (URL) strings into components. The issue involves how the urlparse method does not sanitize input and allows characters like &#39;\\r&#39; and &#39;\\n&#39; in the URL path. This flaw allows an attacker to input a crafted URL, leading to injection attacks. This flaw affects Python versions prior to 3.10.0b1, 3.9.5, 3.8.11, 3.7.11 and 3.6.14."</failure>
+        </testcase>
+        <testcase classname="libpython3.9-minimal-3.9.2-1" name="[HIGH] CVE-2022-42919" time="0">
+            <failure message="local privilege escalation via the multiprocessing forkserver start method" type="description">"Python 3.9.x before 3.9.16 and 3.10.x before 3.10.9 on Linux allows local privilege escalation in a non-default configuration. The Python multiprocessing library, when used with the forkserver start method on Linux, allows pickles to be deserialized from any user in the same machine local network namespace, which in many system configurations means any user on the same machine. Pickles can execute arbitrary code. Thus, this allows for local user privilege escalation to the user that any forkserver process is running as. Setting multiprocessing.util.abstract_sockets_supported to False is a workaround. The forkserver start method for multiprocessing is not the default start method. This issue is Linux specific because only Linux supports abstract namespace sockets. CPython before 3.9 does not make use of Linux abstract namespace sockets by default. Support for users manually specifying an abstract namespace socket was added as a bugfix in 3.7.8 and 3.8.3, but users would need to make specific uncommon API calls in order to do that in CPython before 3.9."</failure>
+        </testcase>
+        <testcase classname="libpython3.9-minimal-3.9.2-1" name="[HIGH] CVE-2022-45061" time="0">
+            <failure message="python: CPU denial of service via inefficient IDNA decoder" type="description">"An issue was discovered in Python before 3.11.1. An unnecessary quadratic algorithm exists in one path when processing some inputs to the IDNA (RFC 3490) decoder, such that a crafted, unreasonably long name being presented to the decoder could lead to a CPU denial of service. Hostnames are often supplied by remote servers that could be controlled by a malicious actor; in such a scenario, they could trigger excessive CPU consumption on the client attempting to make use of an attacker-supplied supposed hostname. For example, the attack payload could be placed in the Location header of an HTTP response with status code 302. A fix is planned in 3.11.1, 3.10.9, 3.9.16, 3.8.16, and 3.7.16."</failure>
+        </testcase>
+        <testcase classname="libpython3.9-minimal-3.9.2-1" name="[HIGH] CVE-2023-24329" time="0">
+            <failure message="python: urllib.parse url blocklisting bypass" type="description">"An issue in the urllib.parse component of Python before 3.11.4 allows attackers to bypass blocklisting methods by supplying a URL that starts with blank characters."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="libpython3.9-stdlib-3.9.2-1" name="[HIGH] CVE-2015-20107" time="0">
+            <failure message="python: mailcap: findmatch() function does not sanitize the second argument" type="description">"In Python (aka CPython) up to 3.10.8, the mailcap module does not add escape characters into commands discovered in the system mailcap file. This may allow attackers to inject shell commands into applications that call mailcap.findmatch with untrusted input (if they lack validation of user-provided filenames or arguments). The fix is also back-ported to 3.7, 3.8, 3.9"</failure>
+        </testcase>
+        <testcase classname="libpython3.9-stdlib-3.9.2-1" name="[HIGH] CVE-2020-10735" time="0">
+            <failure message="python: int() type in PyLong_FromString() does not limit amount of digits converting text to int leading to DoS" type="description">"A flaw was found in python. In algorithms with quadratic time complexity using non-binary bases, when using int(&#34;text&#34;), a system could take 50ms to parse an int string with 100,000 digits and 5s for 1,000,000 digits (float, decimal, int.from_bytes(), and int() for binary bases 2, 4, 8, 16, and 32 are not affected). The highest threat from this vulnerability is to system availability."</failure>
+        </testcase>
+        <testcase classname="libpython3.9-stdlib-3.9.2-1" name="[HIGH] CVE-2021-3737" time="0">
+            <failure message="HTTP client possible infinite loop on a 100 Continue response" type="description">"A flaw was found in python. An improperly handled HTTP response in the HTTP client code of python may allow a remote attacker, who controls the HTTP server, to make the client script enter an infinite loop, consuming CPU time. The highest threat from this vulnerability is to system availability."</failure>
+        </testcase>
+        <testcase classname="libpython3.9-stdlib-3.9.2-1" name="[HIGH] CVE-2022-0391" time="0">
+            <failure message="python: urllib.parse does not sanitize URLs containing ASCII newline and tabs" type="description">"A flaw was found in Python, specifically within the urllib.parse module. This module helps break Uniform Resource Locator (URL) strings into components. The issue involves how the urlparse method does not sanitize input and allows characters like &#39;\\r&#39; and &#39;\\n&#39; in the URL path. This flaw allows an attacker to input a crafted URL, leading to injection attacks. This flaw affects Python versions prior to 3.10.0b1, 3.9.5, 3.8.11, 3.7.11 and 3.6.14."</failure>
+        </testcase>
+        <testcase classname="libpython3.9-stdlib-3.9.2-1" name="[HIGH] CVE-2022-42919" time="0">
+            <failure message="local privilege escalation via the multiprocessing forkserver start method" type="description">"Python 3.9.x before 3.9.16 and 3.10.x before 3.10.9 on Linux allows local privilege escalation in a non-default configuration. The Python multiprocessing library, when used with the forkserver start method on Linux, allows pickles to be deserialized from any user in the same machine local network namespace, which in many system configurations means any user on the same machine. Pickles can execute arbitrary code. Thus, this allows for local user privilege escalation to the user that any forkserver process is running as. Setting multiprocessing.util.abstract_sockets_supported to False is a workaround. The forkserver start method for multiprocessing is not the default start method. This issue is Linux specific because only Linux supports abstract namespace sockets. CPython before 3.9 does not make use of Linux abstract namespace sockets by default. Support for users manually specifying an abstract namespace socket was added as a bugfix in 3.7.8 and 3.8.3, but users would need to make specific uncommon API calls in order to do that in CPython before 3.9."</failure>
+        </testcase>
+        <testcase classname="libpython3.9-stdlib-3.9.2-1" name="[HIGH] CVE-2022-45061" time="0">
+            <failure message="python: CPU denial of service via inefficient IDNA decoder" type="description">"An issue was discovered in Python before 3.11.1. An unnecessary quadratic algorithm exists in one path when processing some inputs to the IDNA (RFC 3490) decoder, such that a crafted, unreasonably long name being presented to the decoder could lead to a CPU denial of service. Hostnames are often supplied by remote servers that could be controlled by a malicious actor; in such a scenario, they could trigger excessive CPU consumption on the client attempting to make use of an attacker-supplied supposed hostname. For example, the attack payload could be placed in the Location header of an HTTP response with status code 302. A fix is planned in 3.11.1, 3.10.9, 3.9.16, 3.8.16, and 3.7.16."</failure>
+        </testcase>
+        <testcase classname="libpython3.9-stdlib-3.9.2-1" name="[HIGH] CVE-2023-24329" time="0">
+            <failure message="python: urllib.parse url blocklisting bypass" type="description">"An issue in the urllib.parse component of Python before 3.11.4 allows attackers to bypass blocklisting methods by supplying a URL that starts with blank characters."</failure>
+        </testcase>
+        <testcase classname="libsqlite3-0-3.34.1-3" name="[HIGH] CVE-2021-31239" time="0">
+            <failure message="sqlite: denial of service via the appendvfs.c function" type="description">"An issue found in SQLite SQLite3 v.3.35.4 that allows a remote attacker to cause a denial of service via the appendvfs.c function."</failure>
+        </testcase>
+        <testcase classname="libsqlite3-0-3.34.1-3" name="[HIGH] CVE-2023-7104" time="0">
+            <failure message="sqlite: heap-buffer-overflow at sessionfuzz" type="description">"A vulnerability was found in SQLite SQLite3 up to 3.43.0 and classified as critical. This issue affects the function sessionReadRecord of the file ext/session/sqlite3session.c of the component make alltest Handler. The manipulation leads to heap-based buffer overflow. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-248999."</failure>
+        </testcase>
+        <testcase classname="libss2-1.46.2-2" name="[HIGH] CVE-2022-1304" time="0">
+            <failure message="e2fsprogs: out-of-bounds read/write via crafted filesystem" type="description">"An out-of-bounds read/write vulnerability was found in e2fsprogs 1.46.5. This issue leads to a segmentation fault and possibly arbitrary code execution via a specially crafted filesystem."</failure>
+        </testcase>
+        <testcase classname="libssh2-1-1.9.0-2" name="[HIGH] CVE-2020-22218" time="0">
+            <failure message="libssh2: use-of-uninitialized-value in _libssh2_transport_read" type="description">"An issue was discovered in function _libssh2_packet_add in libssh2 1.10.0 allows attackers to access out of bounds memory."</failure>
+        </testcase>
+        <testcase classname="libssl1.1-1.1.1n-0+deb11u4" name="[HIGH] CVE-2023-0464" time="0">
+            <failure message="openssl: Denial of service by excessive resource usage in verifying X509 policy constraints" type="description">"A security vulnerability has been identified in all supported versions&#xA;&#xA;of OpenSSL related to the verification of X.509 certificate chains&#xA;that include policy constraints.  Attackers may be able to exploit this&#xA;vulnerability by creating a malicious certificate chain that triggers&#xA;exponential use of computational resources, leading to a denial-of-service&#xA;(DoS) attack on affected systems.&#xA;&#xA;Policy processing is disabled by default but can be enabled by passing&#xA;the `-policy&#39; argument to the command line utilities or by calling the&#xA;`X509_VERIFY_PARAM_set1_policies()&#39; function."</failure>
+        </testcase>
+        <testcase classname="libsystemd0-247.3-7+deb11u1" name="[HIGH] CVE-2023-50387" time="0">
+            <failure message="bind9: KeyTrap - Extreme CPU consumption in DNSSEC validator" type="description">"Certain DNSSEC aspects of the DNS protocol (in RFC 4033, 4034, 4035, 6840, and related RFCs) allow remote attackers to cause a denial of service (CPU consumption) via one or more DNSSEC responses, aka the &#34;KeyTrap&#34; issue. One of the concerns is that, when there is a zone with many DNSKEY and RRSIG records, the protocol specification implies that an algorithm must evaluate all combinations of DNSKEY and RRSIG records."</failure>
+        </testcase>
+        <testcase classname="libsystemd0-247.3-7+deb11u1" name="[HIGH] CVE-2023-50868" time="0">
+            <failure message="bind9: Preparing an NSEC3 closest encloser proof can exhaust CPU resources" type="description">"The Closest Encloser Proof aspect of the DNS protocol (in RFC 5155 when RFC 9276 guidance is skipped) allows remote attackers to cause a denial of service (CPU consumption for SHA-1 computations) via DNSSEC responses in a random subdomain attack, aka the &#34;NSEC3&#34; issue. The RFC 5155 specification implies that an algorithm must perform thousands of iterations of a hash function in certain situations."</failure>
+        </testcase>
+        <testcase classname="libudev1-247.3-7+deb11u1" name="[HIGH] CVE-2023-50387" time="0">
+            <failure message="bind9: KeyTrap - Extreme CPU consumption in DNSSEC validator" type="description">"Certain DNSSEC aspects of the DNS protocol (in RFC 4033, 4034, 4035, 6840, and related RFCs) allow remote attackers to cause a denial of service (CPU consumption) via one or more DNSSEC responses, aka the &#34;KeyTrap&#34; issue. One of the concerns is that, when there is a zone with many DNSKEY and RRSIG records, the protocol specification implies that an algorithm must evaluate all combinations of DNSKEY and RRSIG records."</failure>
+        </testcase>
+        <testcase classname="libudev1-247.3-7+deb11u1" name="[HIGH] CVE-2023-50868" time="0">
+            <failure message="bind9: Preparing an NSEC3 closest encloser proof can exhaust CPU resources" type="description">"The Closest Encloser Proof aspect of the DNS protocol (in RFC 5155 when RFC 9276 guidance is skipped) allows remote attackers to cause a denial of service (CPU consumption for SHA-1 computations) via DNSSEC responses in a random subdomain attack, aka the &#34;NSEC3&#34; issue. The RFC 5155 specification implies that an algorithm must perform thousands of iterations of a hash function in certain situations."</failure>
+        </testcase>
+        <testcase classname="libxml2-2.9.10+dfsg-6.7+deb11u4" name="[HIGH] CVE-2022-2309" time="0">
+            <failure message="lxml: NULL Pointer Dereference in lxml" type="description">"NULL Pointer Dereference allows attackers to cause a denial of service (or application crash). This only applies when lxml is used together with libxml2 2.9.10 through 2.9.14. libxml2 2.9.9 and earlier are not affected. It allows triggering crashes through forged input data, given a vulnerable code sequence in the application. The vulnerability is caused by the iterwalk function (also used by the canonicalize function). Such code shouldn&#39;t be in wide-spread use, given that parsing + iterwalk would usually be replaced with the more efficient iterparse function. However, an XML converter that serialises to C14N would also be vulnerable, for example, and there are legitimate use cases for this code sequence. If untrusted input is received (also remotely) and processed via iterwalk function, a crash can be triggered."</failure>
+        </testcase>
+        <testcase classname="libxml2-2.9.10+dfsg-6.7+deb11u4" name="[HIGH] CVE-2024-25062" time="0">
+            <failure message="libxml2: use-after-free in XMLReader" type="description">"An issue was discovered in libxml2 before 2.11.7 and 2.12.x before 2.12.5. When using the XML Reader interface with DTD validation and XInclude expansion enabled, processing crafted XML documents can lead to an xmlValidatePopElement use-after-free."</failure>
+        </testcase>
+        <testcase classname="libzstd1-1.4.8+dfsg-2.1" name="[HIGH] CVE-2022-4899" time="0">
+            <failure message="zstd: mysql: buffer overrun in util.c" type="description">"A vulnerability was found in zstd v1.4.10, where an attacker can supply empty string as an argument to the command line tool to cause buffer overrun."</failure>
+        </testcase>
+        <testcase classname="logsave-1.46.2-2" name="[HIGH] CVE-2022-1304" time="0">
+            <failure message="e2fsprogs: out-of-bounds read/write via crafted filesystem" type="description">"An out-of-bounds read/write vulnerability was found in e2fsprogs 1.46.5. This issue leads to a segmentation fault and possibly arbitrary code execution via a specially crafted filesystem."</failure>
+        </testcase>
+        <testcase classname="ncurses-base-6.2+20201114-2" name="[HIGH] CVE-2022-29458" time="0">
+            <failure message="segfaulting OOB read" type="description">"ncurses 6.3 before patch 20220416 has an out-of-bounds read and segmentation violation in convert_strings in tinfo/read_entry.c in the terminfo library."</failure>
+        </testcase>
+        <testcase classname="ncurses-base-6.2+20201114-2" name="[HIGH] CVE-2023-29491" time="0">
+            <failure message="ncurses: Local users can trigger security-relevant memory corruption via malformed data" type="description">"ncurses before 6.4 20230408, when used by a setuid application, allows local users to trigger security-relevant memory corruption via malformed data in a terminfo database file that is found in $HOME/.terminfo or reached via the TERMINFO or TERM environment variable."</failure>
+        </testcase>
+        <testcase classname="ncurses-bin-6.2+20201114-2" name="[HIGH] CVE-2022-29458" time="0">
+            <failure message="segfaulting OOB read" type="description">"ncurses 6.3 before patch 20220416 has an out-of-bounds read and segmentation violation in convert_strings in tinfo/read_entry.c in the terminfo library."</failure>
+        </testcase>
+        <testcase classname="ncurses-bin-6.2+20201114-2" name="[HIGH] CVE-2023-29491" time="0">
+            <failure message="ncurses: Local users can trigger security-relevant memory corruption via malformed data" type="description">"ncurses before 6.4 20230408, when used by a setuid application, allows local users to trigger security-relevant memory corruption via malformed data in a terminfo database file that is found in $HOME/.terminfo or reached via the TERMINFO or TERM environment variable."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="nodejs-20.11.1-1nodesource1" name="[HIGH] CVE-2023-30581" time="0">
+            <failure message="nodejs: mainModule.proto bypass experimental policy mechanism" type="description">"The use of __proto__ in process.mainModule.__proto__.require() can bypass the policy mechanism and require modules outside of the policy.json definition. This vulnerability affects all users using the experimental policy mechanism in all active release lines: v16, v18 and, v20.&#xA;&#xA;Please note that at the time this CVE was issued, the policy is an experimental feature of Node.js"</failure>
+        </testcase>
+        <testcase classname="nodejs-20.11.1-1nodesource1" name="[HIGH] CVE-2023-30589" time="0">
+            <failure message="nodejs: HTTP Request Smuggling via Empty headers separated by CR" type="description">"The llhttp parser in the http module in Node v20.2.0 does not strictly use the CRLF sequence to delimit HTTP requests. This can lead to HTTP Request Smuggling (HRS).&#xD;&#xA;&#xD;&#xA;The CR character (without LF) is sufficient to delimit HTTP header fields in the llhttp parser. According to RFC7230 section 3, only the CRLF sequence should delimit each header-field. This impacts all Node.js active versions: v16, v18, and, v20&#xD;&#xA;"</failure>
+        </testcase>
+        <testcase classname="nodejs-20.11.1-1nodesource1" name="[HIGH] CVE-2023-30590" time="0">
+            <failure message="nodejs: DiffieHellman do not generate keys after setting a private key" type="description">"The generateKeys() API function returned from crypto.createDiffieHellman() only generates missing (or outdated) keys, that is, it only generates a private key if none has been set yet, but the function is also needed to compute the corresponding public key after calling setPrivateKey(). However, the documentation says this API call: &#34;Generates private and public Diffie-Hellman key values&#34;.&#xA;&#xA;The documented behavior is very different from the actual behavior, and this difference could easily lead to security issues in applications that use these APIs as the DiffieHellman may be used as the basis for application-level security, implications are consequently broad."</failure>
+        </testcase>
+        <testcase classname="nodejs-20.11.1-1nodesource1" name="[HIGH] CVE-2023-32006" time="0">
+            <failure message="nodejs: Permissions policies can impersonate other modules in using module.constructor.createRequire()" type="description">"The use of `module.constructor.createRequire()` can bypass the policy mechanism and require modules outside of the policy.json definition for a given module.&#xA;&#xA;This vulnerability affects all users using the experimental policy mechanism in all active release lines: 16.x, 18.x, and, 20.x.&#xA;&#xA;Please note that at the time this CVE was issued, the policy is an experimental feature of Node.js."</failure>
+        </testcase>
+        <testcase classname="nodejs-20.11.1-1nodesource1" name="[HIGH] CVE-2023-32559" time="0">
+            <failure message="nodejs: Permissions policies can be bypassed via process.binding" type="description">"A privilege escalation vulnerability exists in the experimental policy mechanism in all active release lines: 16.x, 18.x and, 20.x. The use of the deprecated API `process.binding()` can bypass the policy mechanism by requiring internal modules and eventually take advantage of `process.binding(&#39;spawn_sync&#39;)` run arbitrary code, outside of the limits defined in a `policy.json` file. Please note that at the time this CVE was issued, the policy is an experimental feature of Node.js."</failure>
+        </testcase>
+        <testcase classname="nodejs-20.11.1-1nodesource1" name="[HIGH] CVE-2024-22019" time="0">
+            <failure message="nodejs: reading unprocessed HTTP request with unbounded chunk extension allows DoS attacks" type="description">"A vulnerability in Node.js HTTP servers allows an attacker to send a specially crafted HTTP request with chunked encoding, leading to resource exhaustion and denial of service (DoS). The server reads an unbounded number of bytes from a single connection, exploiting the lack of limitations on chunk extension bytes. The issue can cause CPU and network bandwidth exhaustion, bypassing standard safeguards like timeouts and body size limits."</failure>
+        </testcase>
+        <testcase classname="openssl-1.1.1n-0+deb11u4" name="[HIGH] CVE-2023-0464" time="0">
+            <failure message="openssl: Denial of service by excessive resource usage in verifying X509 policy constraints" type="description">"A security vulnerability has been identified in all supported versions&#xA;&#xA;of OpenSSL related to the verification of X.509 certificate chains&#xA;that include policy constraints.  Attackers may be able to exploit this&#xA;vulnerability by creating a malicious certificate chain that triggers&#xA;exponential use of computational resources, leading to a denial-of-service&#xA;(DoS) attack on affected systems.&#xA;&#xA;Policy processing is disabled by default but can be enabled by passing&#xA;the `-policy&#39; argument to the command line utilities or by calling the&#xA;`X509_VERIFY_PARAM_set1_policies()&#39; function."</failure>
+        </testcase>
+        <testcase classname="perl-5.32.1-4+deb11u3" name="[HIGH] CVE-2020-16156" time="0">
+            <failure message="perl-CPAN: Bypass of verification of signatures in CHECKSUMS files" type="description">"CPAN 2.28 allows Signature Verification Bypass."</failure>
+        </testcase>
+        <testcase classname="perl-5.32.1-4+deb11u3" name="[HIGH] CVE-2023-31484" time="0">
+            <failure message="perl: CPAN.pm does not verify TLS certificates when downloading distributions over HTTPS" type="description">"CPAN.pm before 2.35 does not verify TLS certificates when downloading distributions over HTTPS."</failure>
+        </testcase>
+        <testcase classname="perl-base-5.32.1-4+deb11u3" name="[HIGH] CVE-2020-16156" time="0">
+            <failure message="perl-CPAN: Bypass of verification of signatures in CHECKSUMS files" type="description">"CPAN 2.28 allows Signature Verification Bypass."</failure>
+        </testcase>
+        <testcase classname="perl-base-5.32.1-4+deb11u3" name="[HIGH] CVE-2023-31484" time="0">
+            <failure message="perl: CPAN.pm does not verify TLS certificates when downloading distributions over HTTPS" type="description">"CPAN.pm before 2.35 does not verify TLS certificates when downloading distributions over HTTPS."</failure>
+        </testcase>
+        <testcase classname="perl-modules-5.32-5.32.1-4+deb11u3" name="[HIGH] CVE-2020-16156" time="0">
+            <failure message="perl-CPAN: Bypass of verification of signatures in CHECKSUMS files" type="description">"CPAN 2.28 allows Signature Verification Bypass."</failure>
+        </testcase>
+        <testcase classname="perl-modules-5.32-5.32.1-4+deb11u3" name="[HIGH] CVE-2023-31484" time="0">
+            <failure message="perl: CPAN.pm does not verify TLS certificates when downloading distributions over HTTPS" type="description">"CPAN.pm before 2.35 does not verify TLS certificates when downloading distributions over HTTPS."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="python3.9-3.9.2-1" name="[HIGH] CVE-2015-20107" time="0">
+            <failure message="python: mailcap: findmatch() function does not sanitize the second argument" type="description">"In Python (aka CPython) up to 3.10.8, the mailcap module does not add escape characters into commands discovered in the system mailcap file. This may allow attackers to inject shell commands into applications that call mailcap.findmatch with untrusted input (if they lack validation of user-provided filenames or arguments). The fix is also back-ported to 3.7, 3.8, 3.9"</failure>
+        </testcase>
+        <testcase classname="python3.9-3.9.2-1" name="[HIGH] CVE-2020-10735" time="0">
+            <failure message="python: int() type in PyLong_FromString() does not limit amount of digits converting text to int leading to DoS" type="description">"A flaw was found in python. In algorithms with quadratic time complexity using non-binary bases, when using int(&#34;text&#34;), a system could take 50ms to parse an int string with 100,000 digits and 5s for 1,000,000 digits (float, decimal, int.from_bytes(), and int() for binary bases 2, 4, 8, 16, and 32 are not affected). The highest threat from this vulnerability is to system availability."</failure>
+        </testcase>
+        <testcase classname="python3.9-3.9.2-1" name="[HIGH] CVE-2021-3737" time="0">
+            <failure message="HTTP client possible infinite loop on a 100 Continue response" type="description">"A flaw was found in python. An improperly handled HTTP response in the HTTP client code of python may allow a remote attacker, who controls the HTTP server, to make the client script enter an infinite loop, consuming CPU time. The highest threat from this vulnerability is to system availability."</failure>
+        </testcase>
+        <testcase classname="python3.9-3.9.2-1" name="[HIGH] CVE-2022-0391" time="0">
+            <failure message="python: urllib.parse does not sanitize URLs containing ASCII newline and tabs" type="description">"A flaw was found in Python, specifically within the urllib.parse module. This module helps break Uniform Resource Locator (URL) strings into components. The issue involves how the urlparse method does not sanitize input and allows characters like &#39;\\r&#39; and &#39;\\n&#39; in the URL path. This flaw allows an attacker to input a crafted URL, leading to injection attacks. This flaw affects Python versions prior to 3.10.0b1, 3.9.5, 3.8.11, 3.7.11 and 3.6.14."</failure>
+        </testcase>
+        <testcase classname="python3.9-3.9.2-1" name="[HIGH] CVE-2022-42919" time="0">
+            <failure message="local privilege escalation via the multiprocessing forkserver start method" type="description">"Python 3.9.x before 3.9.16 and 3.10.x before 3.10.9 on Linux allows local privilege escalation in a non-default configuration. The Python multiprocessing library, when used with the forkserver start method on Linux, allows pickles to be deserialized from any user in the same machine local network namespace, which in many system configurations means any user on the same machine. Pickles can execute arbitrary code. Thus, this allows for local user privilege escalation to the user that any forkserver process is running as. Setting multiprocessing.util.abstract_sockets_supported to False is a workaround. The forkserver start method for multiprocessing is not the default start method. This issue is Linux specific because only Linux supports abstract namespace sockets. CPython before 3.9 does not make use of Linux abstract namespace sockets by default. Support for users manually specifying an abstract namespace socket was added as a bugfix in 3.7.8 and 3.8.3, but users would need to make specific uncommon API calls in order to do that in CPython before 3.9."</failure>
+        </testcase>
+        <testcase classname="python3.9-3.9.2-1" name="[HIGH] CVE-2022-45061" time="0">
+            <failure message="python: CPU denial of service via inefficient IDNA decoder" type="description">"An issue was discovered in Python before 3.11.1. An unnecessary quadratic algorithm exists in one path when processing some inputs to the IDNA (RFC 3490) decoder, such that a crafted, unreasonably long name being presented to the decoder could lead to a CPU denial of service. Hostnames are often supplied by remote servers that could be controlled by a malicious actor; in such a scenario, they could trigger excessive CPU consumption on the client attempting to make use of an attacker-supplied supposed hostname. For example, the attack payload could be placed in the Location header of an HTTP response with status code 302. A fix is planned in 3.11.1, 3.10.9, 3.9.16, 3.8.16, and 3.7.16."</failure>
+        </testcase>
+        <testcase classname="python3.9-3.9.2-1" name="[HIGH] CVE-2023-24329" time="0">
+            <failure message="python: urllib.parse url blocklisting bypass" type="description">"An issue in the urllib.parse component of Python before 3.11.4 allows attackers to bypass blocklisting methods by supplying a URL that starts with blank characters."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="python3.9-minimal-3.9.2-1" name="[HIGH] CVE-2015-20107" time="0">
+            <failure message="python: mailcap: findmatch() function does not sanitize the second argument" type="description">"In Python (aka CPython) up to 3.10.8, the mailcap module does not add escape characters into commands discovered in the system mailcap file. This may allow attackers to inject shell commands into applications that call mailcap.findmatch with untrusted input (if they lack validation of user-provided filenames or arguments). The fix is also back-ported to 3.7, 3.8, 3.9"</failure>
+        </testcase>
+        <testcase classname="python3.9-minimal-3.9.2-1" name="[HIGH] CVE-2020-10735" time="0">
+            <failure message="python: int() type in PyLong_FromString() does not limit amount of digits converting text to int leading to DoS" type="description">"A flaw was found in python. In algorithms with quadratic time complexity using non-binary bases, when using int(&#34;text&#34;), a system could take 50ms to parse an int string with 100,000 digits and 5s for 1,000,000 digits (float, decimal, int.from_bytes(), and int() for binary bases 2, 4, 8, 16, and 32 are not affected). The highest threat from this vulnerability is to system availability."</failure>
+        </testcase>
+        <testcase classname="python3.9-minimal-3.9.2-1" name="[HIGH] CVE-2021-3737" time="0">
+            <failure message="HTTP client possible infinite loop on a 100 Continue response" type="description">"A flaw was found in python. An improperly handled HTTP response in the HTTP client code of python may allow a remote attacker, who controls the HTTP server, to make the client script enter an infinite loop, consuming CPU time. The highest threat from this vulnerability is to system availability."</failure>
+        </testcase>
+        <testcase classname="python3.9-minimal-3.9.2-1" name="[HIGH] CVE-2022-0391" time="0">
+            <failure message="python: urllib.parse does not sanitize URLs containing ASCII newline and tabs" type="description">"A flaw was found in Python, specifically within the urllib.parse module. This module helps break Uniform Resource Locator (URL) strings into components. The issue involves how the urlparse method does not sanitize input and allows characters like &#39;\\r&#39; and &#39;\\n&#39; in the URL path. This flaw allows an attacker to input a crafted URL, leading to injection attacks. This flaw affects Python versions prior to 3.10.0b1, 3.9.5, 3.8.11, 3.7.11 and 3.6.14."</failure>
+        </testcase>
+        <testcase classname="python3.9-minimal-3.9.2-1" name="[HIGH] CVE-2022-42919" time="0">
+            <failure message="local privilege escalation via the multiprocessing forkserver start method" type="description">"Python 3.9.x before 3.9.16 and 3.10.x before 3.10.9 on Linux allows local privilege escalation in a non-default configuration. The Python multiprocessing library, when used with the forkserver start method on Linux, allows pickles to be deserialized from any user in the same machine local network namespace, which in many system configurations means any user on the same machine. Pickles can execute arbitrary code. Thus, this allows for local user privilege escalation to the user that any forkserver process is running as. Setting multiprocessing.util.abstract_sockets_supported to False is a workaround. The forkserver start method for multiprocessing is not the default start method. This issue is Linux specific because only Linux supports abstract namespace sockets. CPython before 3.9 does not make use of Linux abstract namespace sockets by default. Support for users manually specifying an abstract namespace socket was added as a bugfix in 3.7.8 and 3.8.3, but users would need to make specific uncommon API calls in order to do that in CPython before 3.9."</failure>
+        </testcase>
+        <testcase classname="python3.9-minimal-3.9.2-1" name="[HIGH] CVE-2022-45061" time="0">
+            <failure message="python: CPU denial of service via inefficient IDNA decoder" type="description">"An issue was discovered in Python before 3.11.1. An unnecessary quadratic algorithm exists in one path when processing some inputs to the IDNA (RFC 3490) decoder, such that a crafted, unreasonably long name being presented to the decoder could lead to a CPU denial of service. Hostnames are often supplied by remote servers that could be controlled by a malicious actor; in such a scenario, they could trigger excessive CPU consumption on the client attempting to make use of an attacker-supplied supposed hostname. For example, the attack payload could be placed in the Location header of an HTTP response with status code 302. A fix is planned in 3.11.1, 3.10.9, 3.9.16, 3.8.16, and 3.7.16."</failure>
+        </testcase>
+        <testcase classname="python3.9-minimal-3.9.2-1" name="[HIGH] CVE-2023-24329" time="0">
+            <failure message="python: urllib.parse url blocklisting bypass" type="description">"An issue in the urllib.parse component of Python before 3.11.4 allows attackers to bypass blocklisting methods by supplying a URL that starts with blank characters."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+    </testsuite>
+    <testsuite tests="4" failures="118" time="0" name="test (debian 11.6)-CRITICAL">
+        <properties>
+            <property name="type" value="debian"></property>
+        </properties>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="curl-7.74.0-1.3+deb11u11" name="[CRITICAL] CVE-2023-23914" time="0">
+            <failure message="curl: HSTS ignored on multiple requests" type="description">"A cleartext transmission of sensitive information vulnerability exists in curl &lt;v7.88.0 that could cause HSTS functionality fail when multiple URLs are requested serially. Using its HSTS support, curl can be instructed to use HTTPS instead of usingan insecure clear-text HTTP step even when HTTP is provided in the URL. ThisHSTS mechanism would however surprisingly be ignored by subsequent transferswhen done on the same command line because the state would not be properlycarried on."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="libcurl3-gnutls-7.74.0-1.3+deb11u11" name="[CRITICAL] CVE-2023-23914" time="0">
+            <failure message="curl: HSTS ignored on multiple requests" type="description">"A cleartext transmission of sensitive information vulnerability exists in curl &lt;v7.88.0 that could cause HSTS functionality fail when multiple URLs are requested serially. Using its HSTS support, curl can be instructed to use HTTPS instead of usingan insecure clear-text HTTP step even when HTTP is provided in the URL. ThisHSTS mechanism would however surprisingly be ignored by subsequent transferswhen done on the same command line because the state would not be properlycarried on."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="libcurl4-7.74.0-1.3+deb11u11" name="[CRITICAL] CVE-2023-23914" time="0">
+            <failure message="curl: HSTS ignored on multiple requests" type="description">"A cleartext transmission of sensitive information vulnerability exists in curl &lt;v7.88.0 that could cause HSTS functionality fail when multiple URLs are requested serially. Using its HSTS support, curl can be instructed to use HTTPS instead of usingan insecure clear-text HTTP step even when HTTP is provided in the URL. ThisHSTS mechanism would however surprisingly be ignored by subsequent transferswhen done on the same command line because the state would not be properlycarried on."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="libdb5.3-5.3.28+dfsg1-0.8" name="[CRITICAL] CVE-2019-8457" time="0">
+            <failure message="heap out-of-bound read in function rtreenode()" type="description">"SQLite3 from 3.6.0 to and including 3.27.2 is vulnerable to heap out-of-bound read in the rtreenode() function when handling invalid rtree tables."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="libpython3.9-minimal-3.9.2-1" name="[CRITICAL] CVE-2021-29921" time="0">
+            <failure message="python-ipaddress: Improper input validation of octal strings" type="description">"In Python before 3,9,5, the ipaddress library mishandles leading zero characters in the octets of an IP address string. This (in some situations) allows attackers to bypass access control that is based on IP addresses."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="libpython3.9-stdlib-3.9.2-1" name="[CRITICAL] CVE-2021-29921" time="0">
+            <failure message="python-ipaddress: Improper input validation of octal strings" type="description">"In Python before 3,9,5, the ipaddress library mishandles leading zero characters in the octets of an IP address string. This (in some situations) allows attackers to bypass access control that is based on IP addresses."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="nodejs-20.11.1-1nodesource1" name="[CRITICAL] CVE-2023-32002" time="0">
+            <failure message="nodejs: Permissions policies can be bypassed via Module._load" type="description">"The use of `Module._load()` can bypass the policy mechanism and require modules outside of the policy.json definition for a given module.&#xA;&#xA;This vulnerability affects all users using the experimental policy mechanism in all active release lines: 16.x, 18.x and, 20.x.&#xA;&#xA;Please note that at the time this CVE was issued, the policy is an experimental feature of Node.js."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="python3.9-3.9.2-1" name="[CRITICAL] CVE-2021-29921" time="0">
+            <failure message="python-ipaddress: Improper input validation of octal strings" type="description">"In Python before 3,9,5, the ipaddress library mishandles leading zero characters in the octets of an IP address string. This (in some situations) allows attackers to bypass access control that is based on IP addresses."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="python3.9-minimal-3.9.2-1" name="[CRITICAL] CVE-2021-29921" time="0">
+            <failure message="python-ipaddress: Improper input validation of octal strings" type="description">"In Python before 3,9,5, the ipaddress library mishandles leading zero characters in the octets of an IP address string. This (in some situations) allows attackers to bypass access control that is based on IP addresses."</failure>
+        </testcase>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <skipped>Test was skipped for a specific reason</skipped>
+        <testcase classname="zlib1g-1:1.2.11.dfsg-2+deb11u2" name="[CRITICAL] CVE-2023-45853" time="0">
+            <failure message="zlib: integer overflow and resultant heap-based buffer overflow in zipOpenNewFileInZip4_6" type="description">"MiniZip in zlib through 1.3 has an integer overflow and resultant heap-based buffer overflow in zipOpenNewFileInZip4_64 via a long filename, comment, or extra field. NOTE: MiniZip is not a supported part of the zlib product. NOTE: pyminizip through 0.2.6 is also vulnerable because it bundles an affected zlib version, and exposes the applicable MiniZip code through its compress API."</failure>
+        </testcase>
+    </testsuite>
+</testsuites>
