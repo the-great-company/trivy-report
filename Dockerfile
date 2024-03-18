@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11:x86_64-ubuntu-jre-11.0.22_7
+FROM openjdk:slim
 
 WORKDIR /app
 
