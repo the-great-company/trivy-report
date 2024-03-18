@@ -12,7 +12,7 @@
         <testcase classname="{{ .PkgName }}-{{ .InstalledVersion }}" name="[{{ .Vulnerability.Severity }}] {{ .VulnerabilityID }}" time="0">
             <failure message={{escapeXML .Title | printf "%q" }} type="description">{{escapeXML .Description | printf "%q" }}</failure>
         </testcase>
-        {{- end}}
     {{- end }}
     </testsuite>
 {{- end }}
+</testsuites>
