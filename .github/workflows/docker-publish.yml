@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      actions: read
+      actions: write
       checks: write
       packages: write
       # This is used to complete the identity challenge
@@ -30,7 +30,9 @@ jobs:
       id-token: write
       pull-requests: write
       repository-projects: write
-      security_events: write
+      issues: write
+      pages: write
+      security-events: write
 
     steps:
       - name: Checkout repository
